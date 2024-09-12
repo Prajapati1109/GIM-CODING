@@ -1,0 +1,84 @@
+ 
+/* ====================header======================== */
+.head{
+    height: 70px;
+    width: 100%;
+    background-color: #606C5D;
+}
+.logo{
+    height: inherit;
+    color: white;
+    width: 70%;
+    background-color:#606C5D;
+    float: left;
+    padding-top: 5px;
+    font-size: 50px;
+    font-family: "SUSE", sans-serif;
+}
+.about{
+    height: inherit;
+    width: 30%;
+    background-color:#606C5D;
+    float: right;
+}
+.about a:link{
+    padding: 30px;
+    color: white;
+    text-decoration: none; 
+    font-size:20px; 
+}
+
+/* ===========================================middel====================== */
+.left{
+    height: 870px;
+    width:70%;
+    background-color:#C1D1B5;
+    float:left;
+}
+.left h1{
+    color: #606C5D;
+    margin-top: 80px;
+    margin-left:70px;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size:80px;
+}
+.left p{
+    margin-left: 70px;
+    margin-top:-30px;
+    font-size: 20px;    
+    font-family: "Roboto", sans-serif;
+}
+button{
+    height:40px;
+    width:130px;
+    margin-left: 70px;
+    background-color: #606C5D;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    border-radius: px;
+}
+.right{
+    height:870px;
+    width:30%;
+    background-image: url(Screenshot\ 2024-09-12\ 085316.png);
+    background-repeat: no-repeat;
+    background-position: 100% ;
+    background-size: cover;
+    float: right;
+ 
+    
+}
+
+/* ==========================================images============================== */
+.img{
+    height: 300px;
+    width: 300px;
+    background-image:url(aa6cjf7py.webp);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 300px;
+    left: 1185px;
+}
